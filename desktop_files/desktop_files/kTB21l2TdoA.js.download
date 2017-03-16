@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["mIh1Y"]); }
+
+__d("XRegistrationAttemptLoginController",["XController"],(function a(b,c,d,e,f,g){f.exports=c("XController").create("\/ajax\/registration\/maybelogin\/",{reg_email__:{type:"String"},reg_email_confirmation__:{type:"String"},reg_passwd__:{type:"String"}});}),null);
